@@ -1,0 +1,8 @@
+   {
+     "_help": "Add any extra production figure here. Key = column name to create, value = regex matched against the table heading.",
+     "extra_metrics": {
+       "Closing_Stock_MT": "closing stock|stock at",
+       "Manpower_Nos": "manpower|employees",
+       "OMS_Tonnes_per_Man_Shift": "\\boms\\b|output per man"
+     }
+   }
