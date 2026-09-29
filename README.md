@@ -1,4 +1,4 @@
-# CIL AI Reporting Assistant (SIH 2026 prototype)
+# CIL AI Reporting Assistant 
 
 Modules: (1) Automated report generation, (2) Word cloud + topic identification, (3) AI query & response.
 Plus ingestion of PDF/DOCX/XLSX/images, validation, traceability and KPIs.
@@ -21,6 +21,3 @@ Plus ingestion of PDF/DOCX/XLSX/images, validation, traceability and KPIs.
 ```
 Open the printed URL, paste the IP as password.
 
-## Optional
-- OCR for scanned pages: install Tesseract, pytesseract is already in requirements.
-- LLM answers: set `ANTHROPIC_API_KEY` (and optionally `CLAUDE_MODEL`).
