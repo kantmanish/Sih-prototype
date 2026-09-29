@@ -19,5 +19,5 @@ Plus ingestion of PDF/DOCX/XLSX/images, validation, traceability and KPIs.
 !curl ipv4.icanhazip.com      # this IP is the tunnel password
 !npx localtunnel --port 8501
 ```
-Open the printed URL, paste the IP as password.
+
 
